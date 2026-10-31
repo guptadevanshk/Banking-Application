@@ -1,4 +1,4 @@
-# Initialize local git repository (if not already done)
+# Initialize local git repository 
 git init
 
 # Add all project files
